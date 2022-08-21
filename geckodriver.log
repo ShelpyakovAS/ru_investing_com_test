@@ -1,0 +1,277 @@
+1661080891281	geckodriver	INFO	Listening on 127.0.0.1:49944
+1661082146008	geckodriver	INFO	Listening on 127.0.0.1:64154
+1661082225843	geckodriver	INFO	Listening on 127.0.0.1:64162
+1661083649117	geckodriver	INFO	Listening on 127.0.0.1:54403
+1661083651995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileCQhnqU"
+1661083652471	Marionette	INFO	Marionette enabled
+1661083652477	Marionette	INFO	Listening on port 54413
+WebDriver BiDi listening on ws://localhost:54404
+Read port: 54413
+1661083652665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileCQhnqU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54404/devtools/browser/2336256f-0d96-4e01-a927-9569276c6bf7
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661083659969	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661083665497	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661083685959	Marionette	INFO	Stopped listening on port 54413
+1661083691118	geckodriver	INFO	Listening on 127.0.0.1:55114
+1661083694212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofilecthcbr"
+1661083694703	Marionette	INFO	Marionette enabled
+1661083694707	Marionette	INFO	Listening on port 55130
+WebDriver BiDi listening on ws://localhost:55115
+Read port: 55130
+1661083694798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofilecthcbr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55115/devtools/browser/d75b36e5-2be2-45fd-806b-f0d40f3863a5
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661083702158	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661083706057	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+[Child 21708, MediaDecoderStateMachine #1] WARNING: Decoder=2325a321e00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 21708, MediaDecoderStateMachine #1] WARNING: Decoder=23259817000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661083743457	Marionette	INFO	Stopped listening on port 55130
+1661083773895	geckodriver	INFO	Listening on 127.0.0.1:55899
+1661083776987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofilep7Vs8m"
+1661083777439	Marionette	INFO	Marionette enabled
+1661083777444	Marionette	INFO	Listening on port 55909
+WebDriver BiDi listening on ws://localhost:55900
+Read port: 55909
+1661083777677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofilep7Vs8m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55900/devtools/browser/6b03dc64-a4c9-4862-b555-0c3d81942ded
+1661083784995	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661083787162	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661083796017	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661083830687	Marionette	INFO	Stopped listening on port 55909
+1661083857363	geckodriver	INFO	Listening on 127.0.0.1:62052
+1661083860464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileS5dlvq"
+1661083860917	Marionette	INFO	Marionette enabled
+1661083860922	Marionette	INFO	Listening on port 62062
+WebDriver BiDi listening on ws://localhost:62053
+Read port: 62062
+1661083861015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileS5dlvq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62053/devtools/browser/df2119e9-fef6-419d-9cd1-9bf6621751c1
+1661083868447	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661083870500	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661083879226	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661083936786	Marionette	INFO	Stopped listening on port 62062
+1661084010149	geckodriver	INFO	Listening on 127.0.0.1:63402
+1661084013245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofilembw4pu"
+1661084013742	Marionette	INFO	Marionette enabled
+1661084013746	Marionette	INFO	Listening on port 63412
+WebDriver BiDi listening on ws://localhost:63403
+Read port: 63412
+1661084013857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofilembw4pu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63403/devtools/browser/77d5aa24-afd0-468b-82e1-b7ae6fa4774c
+1661084020571	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661084025860	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661084027917	Marionette	INFO	Stopped listening on port 63412
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661084032405	geckodriver	INFO	Listening on 127.0.0.1:64957
+1661084035475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofile7YJEwn"
+1661084035958	Marionette	INFO	Marionette enabled
+1661084035962	Marionette	INFO	Listening on port 64967
+WebDriver BiDi listening on ws://localhost:64958
+Read port: 64967
+1661084036151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofile7YJEwn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64958/devtools/browser/56c09150-fc81-4250-a1ca-416ed8a68410
+1661084043244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661084045322	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661084059574	Marionette	INFO	Stopped listening on port 64967
+[Parent 23444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661084203415	geckodriver	INFO	Listening on 127.0.0.1:49475
+1661084206482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofile1JTMMD"
+1661084206956	Marionette	INFO	Marionette enabled
+1661084206961	Marionette	INFO	Listening on port 49485
+WebDriver BiDi listening on ws://localhost:49476
+Read port: 49485
+1661084207196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofile1JTMMD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49476/devtools/browser/740d7543-f0db-4db8-8a85-f7b5b717dffe
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661084214241	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661084216744	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+[Child 20552, MediaDecoderStateMachine #1] WARNING: Decoder=1c4f3d18e00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661084251153	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+[Child 20552, MediaDecoderStateMachine #1] WARNING: Decoder=1c4f8e5ca00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 20552, MediaDecoderStateMachine #1] WARNING: Decoder=1c4f8e5ca00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1661084256575	Marionette	INFO	Stopped listening on port 49485
+JavaScript error: resource://gre/actors/AutoplayParent.jsm, line 13: TypeError: browser is null
+1661084688467	geckodriver	INFO	Listening on 127.0.0.1:61611
+1661084691554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileSNIrR5"
+*** You are running in headless mode.
+1661084692012	Marionette	INFO	Marionette enabled
+1661084692016	Marionette	INFO	Listening on port 61621
+WebDriver BiDi listening on ws://localhost:61612
+Read port: 61621
+1661084692228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileSNIrR5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61612/devtools/browser/818c66b7-3c49-41f3-822b-178978de9a3a
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+[Child 9872, MediaDecoderStateMachine #1] WARNING: Decoder=182d4b77500 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1661084698597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661084731790	Marionette	INFO	Stopped listening on port 61621
+1661084902239	geckodriver	INFO	Listening on 127.0.0.1:62529
+1661084905346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofile8Yf1ub"
+1661084905794	Marionette	INFO	Marionette enabled
+1661084905798	Marionette	INFO	Listening on port 62539
+WebDriver BiDi listening on ws://localhost:62530
+Read port: 62539
+1661084906031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofile8Yf1ub\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62530/devtools/browser/8928f338-9c9a-4435-ac3c-d21b1c4c9b89
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661084913081	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661084915548	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+[Child 14948, MediaDecoderStateMachine #1] WARNING: Decoder=1c874a65f00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661084950236	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661084955861	Marionette	INFO	Stopped listening on port 62539
+1661087072498	geckodriver	INFO	Listening on 127.0.0.1:63926
+1661087075604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofilemBmd3Q"
+1661087076079	Marionette	INFO	Marionette enabled
+1661087076084	Marionette	INFO	Listening on port 63936
+WebDriver BiDi listening on ws://localhost:63927
+Read port: 63936
+1661087076178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofilemBmd3Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63927/devtools/browser/96c6e91f-d1cf-4fda-a22d-58b545038ef0
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087082634	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087104173	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087129142	Marionette	INFO	Stopped listening on port 63936
+1661087206504	geckodriver	INFO	Listening on 127.0.0.1:51636
+1661087209590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileLZcBYL"
+1661087210035	Marionette	INFO	Marionette enabled
+1661087210040	Marionette	INFO	Listening on port 51646
+WebDriver BiDi listening on ws://localhost:51637
+Read port: 51646
+1661087210276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileLZcBYL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51637/devtools/browser/861f8cd6-e24b-45df-aa62-8212149658b5
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087217427	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 9764, MediaDecoderStateMachine #1] WARNING: Decoder=181a468dc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 9764, MediaDecoderStateMachine #1] WARNING: Decoder=181a468dc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087247645	Marionette	INFO	Stopped listening on port 51646
+1661087371217	geckodriver	INFO	Listening on 127.0.0.1:59289
+1661087374303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileyWZ0yT"
+1661087374758	Marionette	INFO	Marionette enabled
+1661087374762	Marionette	INFO	Listening on port 59299
+WebDriver BiDi listening on ws://localhost:59290
+Read port: 59299
+1661087374996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileyWZ0yT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59290/devtools/browser/1339edde-1afb-4348-b2a5-773acf210bc5
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087382325	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661087384772	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661087393641	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661087402621	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087425825	Marionette	INFO	Stopped listening on port 59299
+[Parent 20220, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661087464744	geckodriver	INFO	Listening on 127.0.0.1:60040
+1661087467810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofiledVkTdQ"
+1661087468257	Marionette	INFO	Marionette enabled
+1661087468261	Marionette	INFO	Listening on port 60050
+WebDriver BiDi listening on ws://localhost:60041
+Read port: 60050
+1661087468499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofiledVkTdQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60041/devtools/browser/ed54c965-6811-472a-83ab-f88ab213cb8c
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087475849	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661087478221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+[Child 23408, MediaDecoderStateMachine #1] WARNING: Decoder=234c2b46d00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087509962	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087513377	Marionette	INFO	Stopped listening on port 60050
+1661087590396	geckodriver	INFO	Listening on 127.0.0.1:60784
+1661087593488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileWiSdTS"
+1661087593940	Marionette	INFO	Marionette enabled
+1661087593944	Marionette	INFO	Listening on port 60794
+WebDriver BiDi listening on ws://localhost:60785
+Read port: 60794
+1661087594036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileWiSdTS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60785/devtools/browser/b1306433-09f4-400c-912d-e78a092f4086
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087601303	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661087603848	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 1: SyntaxError: expected expression, got '<'
+1661087623875	Marionette	INFO	Stopped listening on port 60794
+1661087822429	geckodriver	INFO	Listening on 127.0.0.1:57937
+1661087825526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57938" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileJ7agGT"
+1661087825988	Marionette	INFO	Marionette enabled
+1661087825992	Marionette	INFO	Listening on port 57947
+WebDriver BiDi listening on ws://localhost:57938
+Read port: 57947
+1661087826238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileJ7agGT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57938/devtools/browser/795c1f0b-3b28-49a5-a746-b89e80e82075
+1661087833493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661087835796	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+[Child 12380, MediaDecoderStateMachine #1] WARNING: Decoder=25d5c484600 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1661087837034	Marionette	INFO	Stopped listening on port 57947
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661087852086	geckodriver	INFO	Listening on 127.0.0.1:50378
+1661087855178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileWZRWy0"
+1661087855615	Marionette	INFO	Marionette enabled
+1661087855619	Marionette	INFO	Listening on port 50388
+WebDriver BiDi listening on ws://localhost:50379
+Read port: 50388
+1661087855712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileWZRWy0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50379/devtools/browser/9abb90df-e4b9-4130-b8e0-52ec6317ade2
+1661087862831	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661087865121	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661087874314	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661087883413	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+[Child 8988, MediaDecoderStateMachine #1] WARNING: Decoder=146fe76f300 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1661087981695	Marionette	INFO	Stopped listening on port 50388
+1661088136166	geckodriver	INFO	Listening on 127.0.0.1:51398
+1661088139255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofilei0lK94"
+1661088139703	Marionette	INFO	Marionette enabled
+1661088139707	Marionette	INFO	Listening on port 51408
+WebDriver BiDi listening on ws://localhost:51399
+Read port: 51408
+1661088139946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1661088149474	geckodriver	INFO	Listening on 127.0.0.1:51420
+1661088152568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileNgZaHz"
+*** You are running in headless mode.
+1661088153004	Marionette	INFO	Marionette enabled
+1661088153008	Marionette	INFO	Listening on port 51430
+WebDriver BiDi listening on ws://localhost:51421
+Read port: 51430
+1661088153086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHELPY~1\\AppData\\Local\\Temp\\rust_mozprofileNgZaHz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51421/devtools/browser/d3ed0f6b-0d56-4693-8353-12a75c0160a1
+1661088159776	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 18232, MediaDecoderStateMachine #1] WARNING: Decoder=1870c362100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 18232, MediaDecoderStateMachine #1] WARNING: Decoder=1870c362100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 18232, MediaDecoderStateMachine #1] WARNING: Decoder=1870f995b00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1661088229734	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1661088271859	Marionette	INFO	Stopped listening on port 51430
